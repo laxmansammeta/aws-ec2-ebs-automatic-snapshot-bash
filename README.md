@@ -1,3 +1,5 @@
+lucky sammeta
+this is lucky
 aws-ec2-ebs-automatic-snapshot-bash
 ===================================
 
